@@ -1,0 +1,8 @@
+{
+  "name": "AI Workplace Productivity Assistant",
+  "description": "Automate daily workplace tasks with AI: Smart Email Generator, Meeting Notes Summarizer, Task Planner, Research Assistant, and PowerPoint Slide Deck Generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
